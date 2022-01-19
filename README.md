@@ -1,2 +1,2 @@
 # C-Music-Play-Lists
-Singly Linked list with test functions
+Doubly Linked lists with test functions
